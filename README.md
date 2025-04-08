@@ -1,14 +1,3 @@
-Your text is almost perfect! There are just a couple of minor spelling and grammatical issues:
-
-1. "corrupter" should be "corruptor" (the correct spelling).
-2. "it's" should be "its" in this case (since you're referring to the possessive form, not "it is").
-3. "preferablly" should be "preferably."
-4. "directorys" should be "directories."
-5. "malicous" should be "malicious."
-
-Here's the corrected version:
-
----
 
 # File-Corruptor
 This file corruptor was made to target a Windows machine.  
