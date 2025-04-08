@@ -26,6 +26,3 @@ Please ignore the other directories like "test," as those are just the history o
 ### Who can use it?
 Anyone can use it, but I encourage you not to use it with malicious intent.
 
----
-
-Now it should be good to go! Let me know if you need any more adjustments!
